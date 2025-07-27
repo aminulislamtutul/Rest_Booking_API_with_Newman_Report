@@ -217,7 +217,14 @@ newman run Aminul_Islam.postman_collection.postman_collection.json -e Aminul_Isl
 ```
 ## Newman Report Summary:
 
-<img width="662" height="413" alt="Screenshot 2025-07-27 010757" src="https://github.com/user-attachments/assets/cf92302d-d476-4656-ae2c-bd9a9fa7e3cf" />
-<img width="662" height="382" alt="Screenshot 2025-07-27 010555" src="https://github.com/user-attachments/assets/c8b616aa-78d4-4633-b286-ab8f277d7626" />
-<img width="662" height="206" alt="Screenshot 2025-07-27 010651" src="https://github.com/user-attachments/assets/c7020661-cbf4-4bd0-996d-57647ca2fc79" />
-<img width="662" height="206" alt="Screenshot 2025-07-27 010708" src="https://github.com/user-attachments/assets/2b06acde-138a-4826-a780-187c78167d9f" />
+<img width="662" height="413" alt="Screenshot 2025-07-27 010757" src="https://github.com/user-attachments/assets/7480913b-9263-4294-8cd5-3b3871b989fa" />
+<img width="662" height="382" alt="Screenshot 2025-07-27 010555" src="https://github.com/user-attachments/assets/a832e2e2-f875-4c9e-b92c-fdd43eada298" />
+<img width="662" height="206" alt="Screenshot 2025-07-27 010651" src="https://github.com/user-attachments/assets/cc70cdb4-ab21-47ab-a524-2045d339ec9f" />
+<img width="662" height="206" alt="Screenshot 2025-07-27 010708" src="https://github.com/user-attachments/assets/961ec449-9eb8-4beb-b7ea-d8c57a3d8fce" />
+
+
+
+
+
+
+
