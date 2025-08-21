@@ -33,7 +33,7 @@ This project demonstrates API testing using Postman, providing a collection of t
      ```console 
       npm install -g newman
     ```
-    - Newman Html Report Install Command:
+    - Newman html Report Install Command:
      ```console 
       npm install -g newman-reporter-htmlextra
     ```
