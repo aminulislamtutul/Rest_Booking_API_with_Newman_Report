@@ -19,7 +19,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
  ```console 
-  git clone https://github.com/aminulislamtutul/API_Tasting_Store_Management_System_With_Newman_Report.git
+  git clone https://github.com/aminulislamtutul/Rest_Booking_API_with_Newman_Report.git
 ```
 3. Import the Postman collection:
     - Open Postman.
