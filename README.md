@@ -39,15 +39,15 @@ This project demonstrates API testing using Postman, providing a collection of t
     ```
 ### **Usage**
 1. Select Environment:
-    -   In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
+    - In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
 2. Run Collection:
-    -   Select the imported collection from the Collections sidebar.
-    -   Click on the Runner button to open the collection runner.
-    -   Select the desired environment.
-    -   Click Start Test to run the collection.
+    - Select the imported collection from the Collections sidebar.
+    - Click on the Runner button to open the collection runner.
+    - Select the desired environment.
+    - Click Start Test to run the collection.
 3. View Results:
-    -   Once the tests are complete, view the results in the Runner tab.
-    -   Detailed test results can be viewed for each request.
+    - Once the tests are complete, view the results in the Runner tab.
+    - Detailed test results can be viewed for each request.
 ## **Testing**
 
 ## Test Case Scenarios:
